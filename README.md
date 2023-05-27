@@ -15,3 +15,8 @@ game to get the hats:
 ```https://www.roblox.com/games/9249776514/Givenchy-Beauty-House```
 
 get inside the castle and then go downstairs and use the vending machine
+
+Script:
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SheldoFishHead/FEdances/main/Source.lua",true))()
+```
