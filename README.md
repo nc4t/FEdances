@@ -20,3 +20,5 @@ Script:
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SheldoFishHead/FEdances/main/Source.lua",true))()
 ```
+
+Works on UWP version of Roblox!
