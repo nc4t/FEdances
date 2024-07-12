@@ -19,6 +19,6 @@ Script:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SheldoFishHead/FEdances/main/Source.lua",true))()
 ```
 
-__Works as of 5/27/2023__
+~~Works as of 5/27/2023~~
 
 RejectCharacterDeletions added, patched in most if not all games
